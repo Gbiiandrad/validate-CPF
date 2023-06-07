@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/pypi/v/validate-docbr.svg" alt="latest release" />
 </a>
 
-# validate-CPF
+# validate CPF and CNPJ
 
 Pacote Python para validação de documentos brasileiros.
 
